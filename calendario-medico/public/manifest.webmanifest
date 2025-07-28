@@ -1,0 +1,18 @@
+{
+  "lang": "en-us",
+  "name": "App DentU",
+  "short_name": "DentU App",
+  "description": "Una aplicación para gestionar citas dentales y recordatorios.",
+  "start_url": "/registro.html",
+  "background_color": "#87ceeb",
+  "theme_color": "#2f3d58",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://cdn3.iconfinder.com/data/icons/dental-71/64/dental_dentist_medical_healthcare_teeth_app_website-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
